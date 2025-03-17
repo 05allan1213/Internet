@@ -1,0 +1,12 @@
+hello:你好
+world:世界
+good:好
+morning:早上好
+afternoon:下午好
+evening:晚上好
+ayp:艾宇鹏
+love:喜欢
+success:成功
+typ:谭怡萍
+cnm:草泥马
+rnm:日你妈
